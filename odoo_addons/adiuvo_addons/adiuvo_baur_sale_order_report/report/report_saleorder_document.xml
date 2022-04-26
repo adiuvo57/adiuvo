@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<template id="report_saleorder_document_inherit_adiuvo" inherit_id="sale.report_saleorder_document">
+    <xpath expr="//div[@name='signature']" position="after">
+      <h1>hello world</h1>
+    </xpath>
+</template>
+</odoo>
