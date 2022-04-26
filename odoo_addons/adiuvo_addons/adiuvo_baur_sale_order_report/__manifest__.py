@@ -11,7 +11,7 @@
     * Details zu Customized Sale Report.
 """,
     'depends' : [
-        'sales'
+        'sale'
     ],
     'data': [
         'report/report_sale_order_document.xml'
