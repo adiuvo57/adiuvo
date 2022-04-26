@@ -14,7 +14,7 @@
         'sale'
     ],
     'data': [
-        'report/report_sale_order_document.xml'
+        'report/report_saleorder_document.xml'
     ],
     'installable': True,
     'auto_install': False,
