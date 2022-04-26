@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name' : 'Customized Sale Report',
-    'version' : '0.1',
+    'version' : '0.2',
     'author' : 'adiuvo Consulting GmbH',
     'category' : 'Sales',
     'website': 'https://www.adiuvo.ch',
@@ -14,7 +14,7 @@
         'sales'
     ],
     'data': [
-
+        'report/report_sale_order_document.xml'
     ],
     'installable': True,
     'auto_install': False,
